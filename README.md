@@ -12,14 +12,21 @@ Este projeto visa realizar uma análise exploratória e inferencial de um datase
 - Jupyter Notebook
 
 ## Dataset
-- **Fonte:** [Link para o dataset]
-- **Descrição:** [Breve descrição do dataset e suas variáveis]
-
-## Estrutura do Projeto
-
+- **Fonte:** [https://www.kaggle.com/datasets/mayaravalliero/fire-watch-brazil-2024/data]
 
 
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone []
+   git clone [https://github.com/DutraA45/FireWatch_Brazil_2024.git]
+
+2. Dependências:
+    ```bash
+    pip install -r requirements.txt
+
+## Resultados
+- Gráficos de barras que mostram a média de dias sem chuva por estado.
+- Insights sobre a distribuição da precipitação em diferentes regiões.
+
+## Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
