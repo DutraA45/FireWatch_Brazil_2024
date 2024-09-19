@@ -1,7 +1,7 @@
 # Análise de Dataset
 
 ## Descrição do Projeto
-Este projeto visa realizar uma análise exploratória e inferencial de um dataset específico, utilizando técnicas de Data Science para extrair insights e responder a perguntas de interesse.
+Este projeto visa realizar uma análise exploratória e inferencial de um dataset disponibilizado pelo INPE sobre o clima/tempo com foco em queimadas, utilizando técnicas de Data Science para extrair insights e responder a perguntas de interesse.
 
 ## Tecnologias Utilizadas
 - Python
