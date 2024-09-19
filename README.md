@@ -18,7 +18,7 @@ Este projeto visa realizar uma análise exploratória e inferencial de um datase
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/DutraA45/FireWatch_Brazil_2024.git]
+   git clone https://github.com/DutraA45/FireWatch_Brazil_2024.git
 
 2. Dependências:
     ```bash
