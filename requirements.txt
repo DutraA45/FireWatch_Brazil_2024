@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 scipy
+statsmodels
+sklearn.metrics

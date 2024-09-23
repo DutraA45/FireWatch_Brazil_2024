@@ -10,6 +10,8 @@ Este projeto visa realizar uma análise exploratória e inferencial de um datase
 - Matplotlib
 - Seaborn
 - Scipy
+- Statsmodels
+- Scikit-learn
 - Jupyter Notebook
 
 ## Dataset
@@ -30,6 +32,8 @@ Este projeto visa realizar uma análise exploratória e inferencial de um datase
 - Top 10 estados com maiores risco de queimadas
 - Evolução do risco de queimadas e média de precipitações ao longo do ano
 - Correlação entre dias sem chover e risco de queimadas
+- Regressão linear OLS
+- Erro Absoluto Médio (MAE)
 
 ## Resultados
 - A análise realizada mostrou que os níveis de precipitação estão diretamente ligados ao risco de queimadas durante esse ano.
